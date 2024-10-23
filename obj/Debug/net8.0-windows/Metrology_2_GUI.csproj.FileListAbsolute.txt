@@ -17,3 +17,4 @@ C:\Users\eugen\RiderProjects\Metrology_2_GUI\obj\Debug\net8.0-windows\refint\Met
 C:\Users\eugen\RiderProjects\Metrology_2_GUI\obj\Debug\net8.0-windows\Metrology_2_GUI.pdb
 C:\Users\eugen\RiderProjects\Metrology_2_GUI\obj\Debug\net8.0-windows\Metrology_2_GUI.genruntimeconfig.cache
 C:\Users\eugen\RiderProjects\Metrology_2_GUI\obj\Debug\net8.0-windows\ref\Metrology_2_GUI.dll
+C:\Users\eugen\RiderProjects\Metrology_2_GUI\obj\Debug\net8.0-windows\Metrology_2_GUI.sourcelink.json

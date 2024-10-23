@@ -27,8 +27,7 @@ public class Lexer
     {
         string trimmedLine = line.Trim();
 
-        if (trimmedLine.StartsWith("if") || trimmedLine.StartsWith("elsif") || 
-            trimmedLine.StartsWith("else") || trimmedLine.StartsWith("case"))
+        if (trimmedLine.StartsWith("if") || trimmedLine.StartsWith("elsif") || trimmedLine.StartsWith("case"))
         {
             jilbe.ConditionAmount++;
             jilbe.Nest++;
@@ -36,10 +35,10 @@ public class Lexer
         }
         else if (trimmedLine.StartsWith("end"))
         {
-            jilbe.Nest = Math.Max(0, jilbe.Nest - 1); 
+            jilbe.Nest = Math.Max(0, jilbe.Nest - 1);
         }
 
-        if (!string.IsNullOrEmpty(trimmedLine) && !trimmedLine.StartsWith("#")) 
+        if (!string.IsNullOrEmpty(trimmedLine) && !trimmedLine.StartsWith("#"))
         {
             jilbe.OperatorAmount++;
         }

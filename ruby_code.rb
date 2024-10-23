@@ -228,3 +228,11 @@ end
 
 game_ai = TicTacToeWithAI.new
 game_ai.play
+
+case x
+when 6
+  "It's 6"
+else
+  "You gave me #{x} -- I have no idea what to do with that."
+end
+
