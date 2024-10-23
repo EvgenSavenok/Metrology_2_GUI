@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Metrology_2_GUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dc18c84a2c9c3e3fa70bf2b363031f98c0c58af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+243361e13d9eb583fe5180328aef44ec050324ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Metrology_2_GUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Metrology_2_GUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

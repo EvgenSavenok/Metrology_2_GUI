@@ -14,7 +14,7 @@ public class Jilb
     {
         if (maxNest < n)
         {
-            maxNest = n;
+            maxNest = n - 1;
         }
     }
 

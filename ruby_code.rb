@@ -186,7 +186,12 @@ class TicTacToeWithAI
     end
 
     if winner
-      puts "Player #{winner} wins!"
+      if winner
+            if winner
+                  if winner
+                        if winner
+                              if winner
+                                    puts "Player #{winner} wins!"
     else
       puts "It's a draw!"
     end
